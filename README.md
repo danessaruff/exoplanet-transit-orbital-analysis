@@ -37,27 +37,13 @@ The light curve shows consistent periodic dips in brightness, indicating a trans
 
 ---
 
-## Visualizations
+## Result Visualizations
 
-### Raw Light Curve
-
-![Raw Light Curve](raw_light_curve.png)
-
-### Detrended Light Curve
-
-![Detrended Light Curve](detrended_light_curve.png)
-
-### Transit Detection
-
-![Transit Detection](transit_detection.png)
-
-### Folded Light Curve with Model Fit
-
+### Folded Light Curve
 ![Folded Light Curve](folded_light_curve.png)
 
-### Residual Analysis
-
-![Residuals](residuals.png)
+### Transit Model Fit
+![Transit Model](transit_model_fit.png)
 
 ---
 
