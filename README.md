@@ -39,6 +39,9 @@ The light curve shows consistent periodic dips in brightness, indicating a trans
 
 ## Result Visualizations
 
+## Normalized Light Curve
+![Folded Light Curve](normalization_light_curve.png)
+
 ### Folded Light Curve
 ![Folded Light Curve](folded_tessb_light_curve.png)
 
