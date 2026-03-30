@@ -40,7 +40,7 @@ The light curve shows consistent periodic dips in brightness, indicating a trans
 ## Result Visualizations
 
 ### Folded Light Curve
-![Folded Light Curve](folded_light_curve.png)
+![Folded Light Curve](folded_tessb_light_curve.png)
 
 ### Transit Model Fit
 ![Transit Model](transit_model_fit.png)
